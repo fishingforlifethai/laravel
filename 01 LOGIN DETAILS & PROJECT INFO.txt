@@ -1,0 +1,19 @@
+
+
+
+**Developed by เศรษฐ์ เกิดแสง (บิล 062-5952829)**
+
+
+
+
+---Admin Login Details---
+
+Email   : adminsate@mail.com
+Password: adminsate
+
+--Customer Login Details---
+Email   : customerbill@mail.com
+Password: adminsate
+
+
+
